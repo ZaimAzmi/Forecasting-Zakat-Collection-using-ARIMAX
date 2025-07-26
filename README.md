@@ -1,6 +1,7 @@
 # Forecasting-Zakat-Collection-using-ARIMAX
 
-RM Amount Forecasting (2018–2024) using ARIMAX
+## RM Amount Forecasting (2018–2024) using ARIMAX
+
 This project focuses on forecasting RM collection amounts from 2018 to 2024 using the ARIMAX (AutoRegressive Integrated Moving Average with Exogenous Variables) model.
 
 Project Highlights
