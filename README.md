@@ -21,9 +21,13 @@ Exogenous Variables: Economic indicators such as Inflation, GDP Growth, and Unem
 
 - Evaluated performance using RMSE, MAE, and MAPE.
 
-### Forecasting: Generated 6-year ahead predictions based on the historical trend and exogenous variables.
+### Forecasting: 
 
-### Visualization: Plotted time series trends, ACF/PACF, and forecast results.
+- Generated 6-year ahead predictions based on the historical trend and exogenous variables.
+
+### Visualization:
+
+- Plotted time series trends, ACF/PACF, and forecast results.
 
 ### Objective
 
